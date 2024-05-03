@@ -23,6 +23,4 @@ For any work related to the network traffic analysis, welcome to please cite our
   pages={2139 - 2161},
   url={https://api.semanticscholar.org/CorpusID:248442654}
 }
-
-Copy
 ```
