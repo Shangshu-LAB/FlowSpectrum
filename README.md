@@ -21,6 +21,5 @@ For any work related to the network traffic analysis, welcome to please cite our
   year={2022},
   volume={25},
   pages={2139 - 2161},
-  url={https://api.semanticscholar.org/CorpusID:248442654}
 }
 ```
